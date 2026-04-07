@@ -2,7 +2,8 @@
 
 ## Repository
 
-Source code: submitted via GitHub (link to be added in submission).
+Source code: submitted via GitHub.
+https://github.com/Rajput-Royal/FlexQL
 
 ---
 
